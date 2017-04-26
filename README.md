@@ -1,6 +1,6 @@
 # npmdoc-grunt-svgstore
 
-#### api documentation for  [grunt-svgstore (v1.0.0)](https://github.com/FWeinb/grunt-svgstore#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-svgstore.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-svgstore) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-svgstore.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-svgstore)
+#### basic api documentation for  [grunt-svgstore (v1.0.0)](https://github.com/FWeinb/grunt-svgstore#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-svgstore.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-svgstore) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-svgstore.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-svgstore)
 
 #### Merge SVGs from a folder
 
@@ -80,7 +80,8 @@
     "scripts": {
         "test": "grunt test"
     },
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "bin": {}
 }
 ```
 
